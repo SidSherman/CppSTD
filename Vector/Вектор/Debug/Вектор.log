@@ -1,0 +1,3 @@
+﻿  Вектор.cpp
+c:\projects\вектор\вектор\вектор.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Вектор.vcxproj -> C:\Projects\Вектор\Debug\Вектор.exe
