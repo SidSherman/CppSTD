@@ -18,7 +18,7 @@
 
 ---
 Several tasks related to the implementation of the some classes of the C++ standard library
-### Dqueue
+### Deque
 A simple implementation of a two-way queue for integers
 
 Source code SimpleDeque/Динам структуры/Deque.cpp
