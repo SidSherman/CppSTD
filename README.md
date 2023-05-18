@@ -6,10 +6,7 @@
 Простая реализация двусторонней очереди для целочисленных чисел
 
 Исходный код SimpleDeque/Динам структуры/Deque.cpp
-### Бронирование услуг 
-Консольная программма для бронирования услуг, релизоана с помощью  двусторонней очереди
 
-Исходный код UpgradedDeque/Services/Services.cpp
 ### Строки
 Обертка строки C (string.h)
 
@@ -25,10 +22,7 @@ Several tasks related to the implementation of the some classes of the C++ stand
 A simple implementation of a two-way queue for integers
 
 Source code SimpleDeque/Динам структуры/Deque.cpp
-### Booking services
-Console program for booking services, implemented using a two-way queue
 
-Sourse UpgradedDeque/Services/Services.cpp
 ### String
 The wrapper of the standard C string (string.h)
 
